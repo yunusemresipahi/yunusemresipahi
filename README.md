@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hello, I'm Yunus Emre! 👋
 
-<!--
-**yunusemresipahi/yunusemresipahi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a first-year student studying Computer Programming at Istanbul University Cerrahpasa. My knowledge in software development is still limited, but I'm enthusiastic about learning and eager to grow in the field. Here are a few details to get to know me better:
 
-Here are some ideas to get you started:
+- 🎓 Student at Istanbul University Cerrahpasa, majoring in Computer Programming - 1st Year
+- 💻 Currently learning C++ and Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects and Collaboration
+
+You can find the projects I've been working on and collaborations I've been a part of on my GitHub profile. I'm also open to collaboration and feedback from experienced developers. If you're interested in working on a project together or have suggestions for improvement, feel free to reach out!
+
+## Contact
+
+- 📧 Email: [yunusemresipahi0@gmail.com](mailto:yunusemresipahi@gmail.com)
+- 🐦 Twitter: [@yekcloud](https://twitter.com/yekcloud)
+
