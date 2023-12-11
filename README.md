@@ -3,7 +3,6 @@
 I'm a first-year student studying Computer Programming at Istanbul University Cerrahpasa. My knowledge in software development is still limited, but I'm enthusiastic about learning and eager to grow in the field. Here are a few details to get to know me better:
 
 - 🎓 Student at Istanbul University Cerrahpasa, majoring in Computer Programming - 1st Year
-- 💻 Currently learning C++ and Python.
 
 ## Projects and Collaboration
 
