@@ -1,8 +1,8 @@
 # Hello, I'm Yunus Emre! 👋
 
-I'm a first-year student studying Computer Programming at Istanbul University Cerrahpasa. My knowledge in software development is still limited, but I'm enthusiastic about learning and eager to grow in the field. Here are a few details to get to know me better:
+I'm a second-year student studying Computer Programming at Istanbul University Cerrahpasa. My knowledge in software development is still limited, but I'm enthusiastic about learning and eager to grow in the field. Here are a few details to get to know me better:
 
-- 🎓 Student at Istanbul University Cerrahpasa, majoring in Computer Programming - 1st Year
+- 🎓 Student at Istanbul University Cerrahpasa, majoring in Computer Programming - 2nd Year
 
 ## Projects and Collaboration
 
